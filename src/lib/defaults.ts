@@ -196,7 +196,6 @@ Respond ONLY with a valid JSON object in this exact shape:
 }
 
 Rules:
-- Character count hard cut-off at 100 characters for projects and 200 characters for work experience.
 - No markdown, no explanation, no preamble. The response must be parseable by JSON.parse().
 - Escape all double quotes within field values.
 - Do not truncate any section. Return the full content of each field.
