@@ -2,6 +2,8 @@
 
 a local-first latex resume optimizer. paste a job description, get an ATS-aligned rewrite of your resume sections, compiled to pdf — all in the browser.
 
+![Screenshot of Resume AI](screenshot.png)
+
 ## what it does
 
 - **ai rewrite** — sends your experience, projects, and skills sections to gemini with the job description. rewrites bullets to match the job description's tech stack and keywords without fabricating credentials.
